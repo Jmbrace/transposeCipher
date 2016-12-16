@@ -1,0 +1,11 @@
+# transposeCipher
+
+To run the program,
+
+1. open the file jBraceroHonorsContractProgram.py in a text editor
+
+2. copy all the text
+
+3. go to https://repl.it/languages/python3 in a browser
+
+4. Paste the code, and run it!
